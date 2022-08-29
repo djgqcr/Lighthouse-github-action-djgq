@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/OskarAhl/Lighthouse-github-action-comment/issues"
   },
-  "homepage": "https://github.com/OskarAhl/Lighthouse-github-action-comment#readme"
+  "homepage": "https://github.com/OskarAhl/Lighthouse-github-action-comment#readme",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
 }
